@@ -1,7 +1,7 @@
-# StadiEm
+### StadiEm
 
-Support for using the Stadia Controller as an Xbox 360 controller
-on Windows.
+Turn your Stadia Controller into a Xbox 360 controller.
+Originally a fork of https://github.com/MWisBest/StadiEm but compiled.
 
 ### Supported features
 - All buttons are mapped to their Xbox 360 equivalents
@@ -11,7 +11,7 @@ on Windows.
 ### Installation
 1. Download the latest release from the [releases page](https://github.com/RexSonic/StadiEm/releases)
 2. Extract the zip file
-3. Run StadieEM.exe in administrator mode
+3. Run StadiEm.exe in administrator mode
 
 ### Credits
 - [MVisBest](https://github.com/MWisBest)
