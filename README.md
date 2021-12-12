@@ -15,4 +15,4 @@ Originally a fork of https://github.com/MWisBest/StadiEm but compiled.
 3. Run StadiEm.exe in administrator mode
 
 ### Credits
-- [MVisBest](https://github.com/MWisBest)
+- [MWisBest](https://github.com/MWisBest)
